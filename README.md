@@ -1,5 +1,5 @@
 # Job-Hub
-# Job PortalThis project is a job portal developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform serves as a centralized hub for job seekers to search and apply for job opportunities, and for employers to post job listings.
+This project is a job portal developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform serves as a centralized hub for job seekers to search and apply for job opportunities, and for employers to post job listings.
 
 ## Features
 
